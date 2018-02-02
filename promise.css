@@ -1,0 +1,130 @@
+body{
+	margin:0px;
+	background-color: antiquewhite;
+	
+}
+
+nav ul{
+	list-style-type: none;
+	display: block;
+	float: left;
+}
+
+nav a{
+	text-decoration: none;
+}
+
+nav li{
+	float: left;
+	padding-left: 50px;
+	padding-left: 50px;
+}
+nav{
+	background-color: pink;
+	padding: 50px;
+}
+.image{
+	border-radius: 100%;
+	width: 20%;
+	border: 5px solid black ;
+}
+section{
+	text-align: center;
+}
+.name{
+	font-size: 300%;
+	padding-top:0px;
+	padding-bottom: 0px;
+	margin: 0px;
+
+}
+div{
+	margin: 0px;
+}
+.title{
+	margin-bottom :5px;
+}
+.title2{
+	font-weight: bold;
+	font-size: 150%;
+	margin-top: 5px;
+}
+.sec{
+	padding-top: 10%;
+}
+.lisst{
+	
+	text-decoration: none;
+	background-color: white;
+	color:white;
+	padding:20px;
+	margin: 0px;
+}
+.lit{
+	text-decoration: none;
+	display: inline;
+	padding-left:12%;
+	font-size: 23px;
+
+}
+.lt{
+	text-decoration: none;
+	display: inline;
+	font-size: 23px;
+	
+}
+.bottom{
+	position:relative;
+	bottom:0;
+	margin-top: 10%;
+}
+
+.abu{
+	text-decoration: none;
+	border-color: grey;
+
+}
+.abu:hover{
+	border-bottom: 3px solid blue;
+
+	text-decoration: underline;
+}
+.myquote{
+color:blue;
+}
+.flat{
+	margin: 0 auto;
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-top:5%;
+
+}
+.logo{
+	display: inline;
+	height: 55px;
+	margin: 0 auto ;
+	border-radius: 30px;
+	
+}
+.circle{
+	border-radius: 50%;
+	display: inline;
+}
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+.lts{
+	text-decoration: none;
+	background-color: white;
+	color:white;
+	padding:20px;
+	margin: 0px;
+	input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
